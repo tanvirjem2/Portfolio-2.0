@@ -14,7 +14,6 @@ Welcome to **Portfolio 2.0**, a sleek and modern personal portfolio website buil
 
 ## 🚀 Features
 
-- Responsive and mobile-friendly layout
 - Smooth scrolling and animated transitions
 - Project showcase with links and descriptions
 - Contact form (static or integrated with email service if applicable)
@@ -26,11 +25,7 @@ Welcome to **Portfolio 2.0**, a sleek and modern personal portfolio website buil
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla or framework if used)**
 - [Font Awesome](https://fontawesome.com/) for icons
 - [Google Fonts](https://fonts.google.com/) for typography
 
 ---
-
-## 📁 Folder Structure
-
