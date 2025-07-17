@@ -8,7 +8,7 @@ Welcome to **Portfolio 2.0**, a sleek and modern personal portfolio website buil
 
 ## 📸 Preview
 
-![Portfolio Screenshot](preview-image.png) <!-- Add a screenshot of your portfolio in the repo and update the filename here -->
+![Portfolio Screenshot]([preview-image.png](https://github.com/tanvirjem2/Portfolio-2.0/blob/main/Screenshot%20(2).png?raw=true)) <!-- Add a screenshot of your portfolio in the repo and update the filename here -->
 
 ---
 
