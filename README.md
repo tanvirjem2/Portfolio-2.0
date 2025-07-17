@@ -8,7 +8,11 @@ Welcome to **Portfolio 2.0**, a sleek and modern personal portfolio website buil
 
 ## 📸 Preview
 
-![image alt](https://github.com/tanvirjem2/Portfolio-2.0/blob/main/Screenshot%20(2).png?raw=true) <!-- Add a screenshot of your portfolio in the repo and update the filename here -->
+![image alt](https://github.com/tanvirjem2/Portfolio-2.0/blob/c67543ec53f2e565eb7bfdc0e1e7a60b2ad75e61/Screenshot%20(2).png)
+![image alt](https://github.com/tanvirjem2/Portfolio-2.0/blob/c67543ec53f2e565eb7bfdc0e1e7a60b2ad75e61/Screenshot%20(3).png)
+![image alt](https://github.com/tanvirjem2/Portfolio-2.0/blob/c67543ec53f2e565eb7bfdc0e1e7a60b2ad75e61/Screenshot%20(4).png)
+![image alt](https://github.com/tanvirjem2/Portfolio-2.0/blob/c67543ec53f2e565eb7bfdc0e1e7a60b2ad75e61/Screenshot%20(5).png)
+![image alt](https://github.com/tanvirjem2/Portfolio-2.0/blob/c67543ec53f2e565eb7bfdc0e1e7a60b2ad75e61/Screenshot%20(6).png)
 
 ---
 
